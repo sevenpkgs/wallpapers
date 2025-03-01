@@ -1,22 +1,9 @@
-<<<<<<< Updated upstream
-# wallpapers
-All my wallpapers, beautifully sorted.
-
----
-
 # gruvbox
-![1](gruvbox/gruvforest.jpg)
-![2](gruvbox/gruvmountain.png)
-![3](gruvbox/thiemeyer_road_to_samarkand.jpg)
-=======
-# gruvbox
-
 ![1](gruvbox/gruvforest.jpg)
 ![1](gruvbox/gruvmountain.png)
 ![1](gruvbox/thiemeyer_road_to_samarkand.jpg)
 
 # catppuccin
-
 ![1](catppuccin/blue-flowers.jpg)
 ![1](catppuccin/cat-in-clouds.png)
 ![1](catppuccin/cherry-6.png)
