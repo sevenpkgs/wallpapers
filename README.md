@@ -55,4 +55,3 @@
 ![1](catppuccin/street.png)
 ![1](catppuccin/subway.jpg)
 ![1](catppuccin/windows-xp.jpg)
->>>>>>> Stashed changes
