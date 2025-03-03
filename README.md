@@ -2,6 +2,8 @@
 ![1](gruvbox/gruvforest.jpg)
 ![1](gruvbox/gruvmountain.png)
 ![1](gruvbox/thiemeyer_road_to_samarkand.jpg)
+![1](gruvbox/aurora.png)
+![1](gruvbox/palebluedot.png)
 
 # catppuccin
 ![1](catppuccin/blue-flowers.jpg)
