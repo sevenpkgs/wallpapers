@@ -5,4 +5,4 @@
 ![1](gruvbox/palebluedot.png)
 ![1](gruvbox/mountain.png)
 ![1](gruvbox/clouds.png)
-![1](gruvbox/mountain.png)
+![1](gruvbox/castle.png)
