@@ -6,3 +6,4 @@
 ![1](gruvbox/mountain.png)
 ![1](gruvbox/clouds.jpg)
 ![1](gruvbox/castle.png)
+![1](gruvbox/abyss.jpg)
