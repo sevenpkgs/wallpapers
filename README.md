@@ -6,7 +6,6 @@
 ![1](gruvbox/mountain.png)
 ![1](gruvbox/clouds.jpg)
 ![1](gruvbox/castle.png)
-![1](gruvbox/clouds.webp)
 ![1](gruvbox/foggy_forest.jpg)
 
 # Mobile
