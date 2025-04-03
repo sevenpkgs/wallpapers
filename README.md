@@ -8,7 +8,9 @@
 ![1](gruvbox/castle.png)
 ![1](gruvbox/clouds.webp)
 ![1](gruvbox/foggy_forest.jpg)
+![1](gruvbox/fuji.png)
 
 # Mobile
+
 ![1](gruvbox/abyss.jpg)
 ![1](gruvbox/clouds.webp)
