@@ -9,6 +9,9 @@
 ![1](gruvbox/clouds.webp)
 ![1](gruvbox/foggy_forest.jpg)
 ![1](gruvbox/fuji.png)
+![1](gruvbox/aMoonlitNightAtSea.png)
+![1](gruvbox/himalaya.png)
+![1](gruvbox/mountain.webp)
 
 # Mobile
 
