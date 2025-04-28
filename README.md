@@ -12,9 +12,11 @@
 ![1](gruvbox/aMoonlitNightAtSea.png) 
 ![1](gruvbox/himalaya.png)
 ![1](gruvbox/mountain.webp)
+![1](gruvbox/nature.png)
 </details>
 
 <details>
 <summary>Mobile</summary>
 ![1](gruvbox/clouds.webp)
+![1](gruvbox/845pdz.jpg) # br 1.5
 </details>
